@@ -1,0 +1,19 @@
+{
+  "name": "wdi-router",
+  "version": "1.1.0",
+  "description": "A simple router",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsstrn/router.git"
+  },
+  "author": "Jesstern Rays <jessternrays@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsstrn/router/issues"
+  },
+  "homepage": "https://github.com/jsstrn/router#readme"
+}
